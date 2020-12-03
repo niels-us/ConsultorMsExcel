@@ -68,8 +68,8 @@ function main() {
   	/*====================================
     Pretty Photo
     ======================================*/
-	/*$("a[rel^='prettyPhoto']").prettyPhoto({ social_tools: false });*/
-  $("a[rel^='prettyPhoto']").prettyPhoto({ animation_speed:'normal', theme:'dark_rounded', overlay_gallery: false });	
+	$("a[rel^='prettyPhoto']").prettyPhoto({ social_tools: false });
+  /*$("a[rel^='prettyPhoto']").prettyPhoto({ animation_speed:'normal', theme:'dark_rounded', overlay_gallery: false });	
   /*$("a[rel^='prettyPhoto']").prettyPhoto({ animation_speed:'normal', theme:'light_rounded', overlay_gallery: false });	$("a[rel^='prettyPhoto']").prettyPhoto({ animation_speed:'normal', theme:'dark_rounded', overlay_gallery: false });*/ 
 
 }());
